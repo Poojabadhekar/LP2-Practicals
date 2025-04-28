@@ -1,2 +1,1 @@
-# LP2-Practicals
-no
+# LP2-Practical
